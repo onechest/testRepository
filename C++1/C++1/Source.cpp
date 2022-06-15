@@ -7,5 +7,5 @@ void main()
 {
     setlocale(LC_ALL, ""); //ðóññèôèêàòîð
     cout << "Ïðèâåò" << endl;
-    ТА НУ НЕ ОШИБКА
+    cout << "Это наш код";
 }
