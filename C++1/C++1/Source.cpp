@@ -1,10 +1,10 @@
-#include <iostream>     //библиотеки
+#include <iostream>     //ГЎГЁГЎГ«ГЁГ®ГІГҐГЄГЁ
 #include <string>
 
 using namespace std;
 
 void main()
 {
-    setlocale(LC_ALL, "Russian"); //руссификатор
-    cout << "Привет" << endl;
+    setlocale(LC_ALL, ""); //Г°ГіГ±Г±ГЁГґГЁГЄГ ГІГ®Г°
+    cout << "ГЏГ°ГЁГўГҐГІ" << endl;
 }
